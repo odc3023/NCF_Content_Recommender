@@ -8,6 +8,19 @@ This project implements a Neural Collaborative Filtering (NCF) recommender syste
 - It contains processed data (`processed_kt2.csv`) and individual user interaction files in `data/KT2/`.
 - The dataset includes user IDs, resource IDs, and interaction information.
 
+**Note:** The full dataset is not included in this repository due to size limits.
+
+You can download the EdNet KT2 dataset here:
+http://bit.ly/ednet-kt2
+
+After downloading, place the files in the `data/` folder as described above.
+
+Before running the model, you must process the raw dataset using the `preprocess_data.py` script:
+```sh
+python preprocess_data.py
+```
+This will generate the required `processed_kt2.csv` file in the `data/` folder.
+
 ## Model
 - The trained NCF model is saved in `model/ncf_model.pth`.
 - User and resource mappings are stored in `model/user_map.pkl` and `model/resource_map.pkl`.
@@ -63,5 +76,5 @@ Recommendations saved to recommendations_user_723965.csv
 
 ## Contact
 Name: Osheen Constable
-Github Profile: https://github.com/odc3023 
+Github Profile: https://github.com/odc3023
 
