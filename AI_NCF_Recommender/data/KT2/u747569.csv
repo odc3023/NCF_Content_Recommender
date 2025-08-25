@@ -1,0 +1,4 @@
+timestamp,action_type,item_id,source,user_answer,platform
+1568874820049,enter,b4732,diagnosis,,mobile
+1568874844294,respond,q6200,diagnosis,a,mobile
+1568874850127,submit,b4732,diagnosis,,mobile

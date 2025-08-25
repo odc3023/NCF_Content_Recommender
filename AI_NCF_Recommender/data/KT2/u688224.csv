@@ -1,0 +1,11 @@
+timestamp,action_type,item_id,source,user_answer,platform
+1568468386323,enter,b724,my_note,,web
+1568468412840,submit,b724,my_note,,web
+1568468416395,enter,b1073,tutor,,web
+1568468434784,respond,q1073,tutor,c,web
+1568468436974,respond,q1073,tutor,b,web
+1568468437573,respond,q1073,tutor,a,web
+1568468440179,submit,b1073,tutor,,web
+1568468470552,enter,b7399,tutor,,web
+1568468489569,respond,q10048,tutor,a,web
+1568468491144,submit,b7399,tutor,,web

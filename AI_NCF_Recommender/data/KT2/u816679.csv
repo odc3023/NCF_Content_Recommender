@@ -1,0 +1,4 @@
+timestamp,action_type,item_id,source,user_answer,platform
+1574000616557,enter,b1161,sprint,,web
+1574000633275,respond,q1161,sprint,b,web
+1574000634904,submit,b1161,sprint,,web

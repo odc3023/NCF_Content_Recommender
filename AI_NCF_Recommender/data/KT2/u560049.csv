@@ -1,0 +1,16 @@
+timestamp,action_type,item_id,source,user_answer,platform
+1559221918521,enter,b405,review_quiz,,mobile
+1559221940244,respond,q405,review_quiz,c,mobile
+1559221944757,submit,b405,review_quiz,,mobile
+1559221954896,enter,b201,review_quiz,,mobile
+1559221976260,respond,q201,review_quiz,b,mobile
+1559221981053,submit,b201,review_quiz,,mobile
+1559222130298,enter,b2301,review_quiz,,mobile
+1559222180254,respond,q3769,review_quiz,d,mobile
+1559222183584,submit,b2301,review_quiz,,mobile
+1559222229260,enter,b287,review_quiz,,mobile
+1559222247807,respond,q287,review_quiz,a,mobile
+1559222251247,submit,b287,review_quiz,,mobile
+1559222347553,enter,b405,review_quiz,,mobile
+1559222370920,respond,q405,review_quiz,a,mobile
+1559222374287,submit,b405,review_quiz,,mobile

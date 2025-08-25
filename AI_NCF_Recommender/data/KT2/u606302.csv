@@ -1,0 +1,16 @@
+timestamp,action_type,item_id,source,user_answer,platform
+1559444742783,enter,b2537,diagnosis,,mobile
+1559444776777,respond,q4005,diagnosis,b,mobile
+1559444782799,submit,b2537,diagnosis,,mobile
+1559444782879,enter,b304,diagnosis,,mobile
+1559444811843,respond,q304,diagnosis,a,mobile
+1559444820913,submit,b304,diagnosis,,mobile
+1559444820990,enter,b3630,diagnosis,,mobile
+1559444845189,respond,q5098,diagnosis,c,mobile
+1559444849880,submit,b3630,diagnosis,,mobile
+1559444849931,enter,b3957,diagnosis,,mobile
+1559444877423,respond,q5425,diagnosis,d,mobile
+1559444881331,submit,b3957,diagnosis,,mobile
+1559444881408,enter,b2305,diagnosis,,mobile
+1559444920889,respond,q3773,diagnosis,a,mobile
+1559444925152,submit,b2305,diagnosis,,mobile

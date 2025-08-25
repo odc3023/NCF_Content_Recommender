@@ -1,0 +1,6 @@
+timestamp,action_type,item_id,source,user_answer,platform
+1574257276598,enter,b8033,review_quiz,,mobile
+1574257302535,submit,b8033,review_quiz,,mobile
+1574257309445,enter,b854,review_quiz,,mobile
+1574257329531,respond,q854,review_quiz,a,mobile
+1574257333055,submit,b854,review_quiz,,mobile

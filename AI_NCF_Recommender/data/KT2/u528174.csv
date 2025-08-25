@@ -1,0 +1,4 @@
+timestamp,action_type,item_id,source,user_answer,platform
+1552058018853,enter,b3507,diagnosis,,mobile
+1552058044768,respond,q4975,diagnosis,d,mobile
+1552058048382,submit,b3507,diagnosis,,mobile

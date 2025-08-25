@@ -1,0 +1,6 @@
+timestamp,action_type,item_id,source,user_answer,platform
+1562258451860,enter,b4342,diagnosis,,web
+1562258486179,respond,q5810,diagnosis,b,web
+1562258487448,respond,q5810,diagnosis,c,web
+1562258488225,respond,q5810,diagnosis,d,web
+1562258489253,submit,b4342,diagnosis,,web

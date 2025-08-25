@@ -1,0 +1,4 @@
+timestamp,action_type,item_id,source,user_answer,platform
+1547556454148,enter,b4854,diagnosis,,web
+1547556465747,respond,q6322,diagnosis,b,web
+1547556466709,submit,b4854,diagnosis,,web

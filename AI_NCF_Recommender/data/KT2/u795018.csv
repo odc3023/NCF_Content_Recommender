@@ -1,0 +1,9 @@
+timestamp,action_type,item_id,source,user_answer,platform
+1572491209565,enter,b4069,diagnosis,,mobile
+1572491227586,respond,q5537,diagnosis,d,mobile
+1572491235384,respond,q5537,diagnosis,a,mobile
+1572491237372,respond,q5537,diagnosis,d,mobile
+1572491243884,submit,b4069,diagnosis,,mobile
+1572491243984,enter,b3198,diagnosis,,mobile
+1572491248509,respond,q4666,diagnosis,c,mobile
+1572491255036,submit,b3198,diagnosis,,mobile

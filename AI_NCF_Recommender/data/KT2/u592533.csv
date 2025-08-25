@@ -1,0 +1,4 @@
+timestamp,action_type,item_id,source,user_answer,platform
+1557971375917,enter,b470,sprint,,mobile
+1557971389195,respond,q470,sprint,b,mobile
+1557971397671,submit,b470,sprint,,mobile

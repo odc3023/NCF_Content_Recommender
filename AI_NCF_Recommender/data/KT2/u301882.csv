@@ -1,0 +1,4 @@
+timestamp,action_type,item_id,source,user_answer,platform
+1540895735558,enter,b3296,diagnosis,,web
+1540895753093,respond,q4764,diagnosis,a,web
+1540895754327,submit,b3296,diagnosis,,web

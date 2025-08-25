@@ -1,0 +1,11 @@
+timestamp,action_type,item_id,source,user_answer,platform
+1551076351321,enter,b4682,diagnosis,,mobile
+1551076353109,respond,q6150,diagnosis,a,mobile
+1551076357185,submit,b4682,diagnosis,,mobile
+1551076357261,enter,b1241,diagnosis,,mobile
+1551076367593,respond,q1241,diagnosis,a,mobile
+1551076378957,respond,q1241,diagnosis,b,mobile
+1551076379641,respond,q1241,diagnosis,a,mobile
+1551076380192,respond,q1241,diagnosis,b,mobile
+1551076380540,respond,q1241,diagnosis,a,mobile
+1551076384635,submit,b1241,diagnosis,,mobile

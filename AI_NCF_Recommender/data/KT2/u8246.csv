@@ -1,0 +1,7 @@
+timestamp,action_type,item_id,source,user_answer,platform
+1567346795648,enter,b1239,sprint,,mobile
+1567346819764,respond,q1239,sprint,a,mobile
+1567346820953,respond,q1239,sprint,c,mobile
+1567346825086,submit,b1239,sprint,,mobile
+1567346829045,enter,b439,sprint,,mobile
+1567346835987,submit,b439,sprint,,mobile

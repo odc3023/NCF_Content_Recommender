@@ -1,0 +1,4 @@
+timestamp,action_type,item_id,source,user_answer,platform
+1572156727156,enter,b1003,review_quiz,,mobile
+1572156728169,respond,q1003,review_quiz,c,mobile
+1572156739103,submit,b1003,review_quiz,,mobile

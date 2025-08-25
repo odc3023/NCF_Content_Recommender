@@ -1,0 +1,11 @@
+timestamp,action_type,item_id,source,user_answer,platform
+1567462598387,enter,b7923,tutor,,web
+1567462703523,respond,q10648,tutor,b,web
+1567462715198,respond,q10648,tutor,d,web
+1567462721541,respond,q10648,tutor,b,web
+1567462755060,respond,q10648,tutor,d,web
+1567462763814,respond,q10648,tutor,c,web
+1567462837981,respond,q10648,tutor,a,web
+1567462859204,respond,q10648,tutor,b,web
+1567462877043,respond,q10648,tutor,a,web
+1567462888228,submit,b7923,tutor,,web

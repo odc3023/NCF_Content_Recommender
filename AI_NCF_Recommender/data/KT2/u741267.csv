@@ -1,0 +1,5 @@
+timestamp,action_type,item_id,source,user_answer,platform
+1569755098803,enter,b216,my_note,,web
+1569755117503,respond,q216,my_note,c,web
+1569755127672,respond,q216,my_note,b,web
+1569755130678,submit,b216,my_note,,web
