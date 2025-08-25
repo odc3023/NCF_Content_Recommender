@@ -30,3 +30,6 @@ build/
 
 # dataset - too large to track
 AI_NCF_Recommender/data/
+
+# Remove mirror repo folder
+NCF_Content_Recommender-mirror/
