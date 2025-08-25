@@ -29,8 +29,8 @@ This will generate the required `processed_kt2.csv` file in the `data/` folder.
 ## Setup
 1. Clone the repository:
    ```sh
-   git clone 
-   cd 
+   git clone https://github.com/odc3023/NCF_Content_Recommender.git
+   cd AI_NCF_Recommender
    ```
 2. Create and activate a virtual environment:
    ```sh
@@ -45,7 +45,6 @@ This will generate the required `processed_kt2.csv` file in the `data/` folder.
 ## Usage
 To test the model and generate recommendations:
 ```sh
-cd AI_NCF_Recommender
 python test_model.py
 ```
 This will generate recommendations for a sample user and save them to a CSV file (e.g., `recommendations_user_723965.csv`).
