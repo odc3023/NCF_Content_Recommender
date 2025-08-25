@@ -15,7 +15,7 @@ ENV/
 # VS Code settings
 .vscode/
 
-# macOS system files
+# mac system files
 .DS_Store
 
 # Log files
@@ -26,3 +26,7 @@ ENV/
 *.egg-info/
 dist/
 build/
+
+
+# dataset - too large to track
+AI_NCF_Recommender/data/

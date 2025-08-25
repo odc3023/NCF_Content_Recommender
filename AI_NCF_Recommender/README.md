@@ -17,7 +17,8 @@ After downloading, place the files in the `data/` folder as described above.
 
 Before running the model, you must process the raw dataset using the `preprocess_data.py` script:
 ```sh
-python preprocess_data.py
+python
+ preprocess_data.py
 ```
 This will generate the required `processed_kt2.csv` file in the `data/` folder.
 
